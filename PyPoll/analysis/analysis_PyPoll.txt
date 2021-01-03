@@ -1,0 +1,10 @@
+Election Results 
+--------------------------------------- 
+Total Votes: 
+--------------------------------------- 
+<candidate1 variable>:, % variable, votes 
+<candidate2 variable>:, % variable, votes 
+<candidate3 variable>:, % variable, votes 
+--------------------------------------- 
+Winner: <candidatewinner variable> 
+--------------------------------------- 
