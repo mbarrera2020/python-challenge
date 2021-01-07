@@ -2,6 +2,6 @@ PyBank Financial Analysis
 -------------------------------------------- 
 Total Months: 86
 Total Amount: $38,382,578.00
-Average Change: $-2,288.20
-Greatest Increase in Profits: $1,926,159.00
-Greatest Decrese in Profits: $-2,196,167.00
+Average Change: $-2,315.12
+Greatest Increase in Profits: Feb-2012  $1,926,159.00
+Greatest Decrese in Profits:  Sep-2013  $-2,196,167.00
