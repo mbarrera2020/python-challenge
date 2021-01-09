@@ -1,6 +1,6 @@
 Election Results 
 --------------------------------------- 
-Total Votes: 
+Total Votes: 54
 --------------------------------------- 
 <candidate1 variable>:, % variable, votes 
 <candidate2 variable>:, % variable, votes 
