@@ -6,5 +6,5 @@ Total Votes: 54
 <candidate2 variable>:, % variable, votes 
 <candidate3 variable>:, % variable, votes 
 --------------------------------------- 
-Winner: <candidatewinner variable> 
+Winner: insert name 36
 --------------------------------------- 
